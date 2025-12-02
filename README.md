@@ -2,7 +2,7 @@
 
 > **From Contest to Commit — Rise with Your Code!**
 
-Welcome to **CodeUprising**, the official competitive programming repository for our tech team! This is where we sharpen our problem-solving skills, collaborate on solutions, and track our progress in coding contests.
+Hello! Welcome to **CodeUprising**, the official competitive programming repository for our tech team! This is where we sharpen our problem-solving skills, collaborate on solutions, and track our progress in coding contests.
 
 ---
 
